@@ -13,7 +13,7 @@
 - ⏳ **River of Time**
   Eternal ban on global repetition
 
-[Full Rules](en-rules.md)
+[Poetic Version](en-rules.md) | [Philosophical Interpretation](en-rules-philosophy.md)
 </details>
 
 <details>
@@ -29,7 +29,7 @@
 - ⏳ **时间之河**
   永恒禁止全局同型
 
-[完整规则](zh-rules.md)
+[诗意简版](zh-rules.md) | [哲学解读](zh-rules-philosophy.md)
 </details>
 
 <details>
@@ -45,7 +45,7 @@
 - ⏳ **時の流れ**
   全局反復の永久禁止
 
-[完全な規則](ja-rules.md)
+[詩的簡易版](ja-rules.md) | [哲学的解説](ja-rules-philosophy.md)
 </details>
 
 <details>
@@ -61,7 +61,7 @@
 - ⏳ **시간의 강**
   전역 반복 영구 금지
 
-[전체 규칙](ko-rules.md)
+[시적 간판](ko-rules.md) | [철학 해설](ko-rules-philosophy.md)
 </details>
 
 ---
